@@ -1,6 +1,6 @@
 # Requirements
 ## Introduction
-  * Mathematical operations are part of our daily lives. Every day we will be engaging with different types of calculations around us. Matrices is a mathematical organization where numbers are arranged in rows and columns. Most existing applications have a matric in real life.The main application is in the field of software such as the development of algorithms such as path finder algorithms, image processing algorithms and much more.
+  * Mathematical  operations are part of our daily lives. Every day we will be engaging with different types of calculations around us. Matrices is a mathematical organization where numbers are arranged in rows and columns. Most existing applications have a matric in real life.The main application is in the field of software such as the development of algorithms such as path finder algorithms, image processing algorithms and much more.
   * This project introduces several basic matrix operations that allow the user to choose what to do with the matrix. Then a matrix with size is introduced. Only square matrices are considered in the project.
 ## Research
 

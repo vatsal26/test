@@ -1,5 +1,5 @@
 /**
- * @file matrix.h
+ * @file matrix.h 
  * @author VatsalShah
  * @brief header file for main function 
  */

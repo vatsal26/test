@@ -6,7 +6,7 @@
 
 
 
-## Folder Structure
+## Folder Structure 
 Folder             | Description
 -------------------| -----------------------------------------
 `1_Requirements`   | Documents detailing requirements and research

@@ -8,7 +8,7 @@ error_t matrix_inverse(float **num, int f)
 {
  float **matb, **fac,**transp, **invers, d;
 
-    int mem;
+    int mem; 
     matb = (float **)calloc(f,sizeof(float));
     fac = (float **)calloc(f,sizeof(float));
     transp = (float **)calloc(f,sizeof(float));

@@ -2,4 +2,4 @@
 * SoloLearn
 * Skillup
 * Linux
-* Github-Screenshot
+* Github-Screenshots

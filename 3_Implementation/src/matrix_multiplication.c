@@ -1,6 +1,6 @@
 /**
  * @file matrix_multiplication
- * @author VatsalShah
+ * @author VatsalShah 
  * @brief Multiplication function
  */
 #include "matrix.h"
